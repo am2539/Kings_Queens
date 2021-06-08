@@ -49,7 +49,11 @@
           "width" : 3549
         },
         "on" : "http://fc07574c-a7b9-4cc0-8ed8-c6316750e942"
-      } ],
+     	}],
+			"otherContent": [{
+				"@type": "sc:AnnotationList",
+				"@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk144vn3835/list/1r.json"
+			}],
       "related" : ""
     } ]
   } ],
