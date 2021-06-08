@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://am2539.github.io/Kings_Queens/annotations/annotations.json" ],
+  "@id" : "https://am2539.github.io/Kings_Queens/annotations/collection.json",
+  "label" : "All annotations loaded in am2539/Kings_Queens project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
