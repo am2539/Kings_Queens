@@ -52,7 +52,7 @@
      	}],
 			"otherContent": [{
 				"@type": "sc:AnnotationList",
-				"@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk144vn3835/list/1r.json"
+				"@id": "https://raw.githubusercontent.com/am2539/Kings_Queens/main/annotations/annotations.json"
 			}],
       "related" : ""
     } ]
