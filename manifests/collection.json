@@ -1,0 +1,13 @@
+{
+  "id" : "https://am2539.github.io/Kings_Queens/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in am2539/Kings_Queens project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://am2539.github.io/Kings_Queens/manifests/manifest.json",
+    "label" : "The Kings and Queens of England: From the Conquest to Queen Victoria by Henry Hering"
+  } ]
+}
